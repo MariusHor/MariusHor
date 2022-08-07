@@ -28,7 +28,7 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
 ### 🔧 Additional skills
 
 <div>
-- [![codepen](./src/codepen.svg)](https://badges.aleen42.com/src/codepen.svg)
+  <img src="https://badges.aleen42.com/src/github.svg" title="GitHub" alt="GitHub"/>&nbsp;
 </div>
 
 <!--
