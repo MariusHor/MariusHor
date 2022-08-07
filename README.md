@@ -11,28 +11,34 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
 
 <div>
   <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
-  <img src="https://img.shields.io/endpoint?url=<https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg>&style=for-the-badge&logo=css3&logoColor=white>"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/javascript.svg" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/webpack.svg" title="Webpack" alt="Webpack"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/node.svg" title="Node" alt="node"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/visual_studio_code.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/github.svg" title="GitHub" alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/eslint.svg" title="ESLint" alt="ESLint"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" title="Prietter" alt="Prietter"/>&nbsp;
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
 </div>
 
-### 🔧 Additional skills
+### 🔧 Additional tools that I use
 
 <div>
-
-  <img src="https://badges.aleen42.com/src/codepen.svg" title="Codepen" alt="Codepen"/>&nbsp;
-  <img src="https://badges.aleen42.com/src/stackoverflow.svg" title="Stack Overflow" alt="Stack Overflow"/>&nbsp;
-
-
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
 </div>
 
 <!--
