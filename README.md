@@ -16,13 +16,11 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
   <img src="https://badges.aleen42.com/src/javascript.svg" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://badges.aleen42.com/src/webpack.svg" title="Webpack" alt="Webpack"/>&nbsp;
   <img src="https://badges.aleen42.com/src/node.svg" title="Node" alt="node"/>&nbsp;
-   <img src="https://badges.aleen42.com/src/visual_studio_code.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
-
+  <img src="https://badges.aleen42.com/src/visual_studio_code.svg" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
   <img src="https://badges.aleen42.com/src/github.svg" title="GitHub" alt="GitHub"/>&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode"/>&nbsp;
   <img src="https://badges.aleen42.com/src/eslint.svg" title="ESLint" alt="ESLint"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" title="Prietter" alt="Prietter"/>&nbsp;
 </div>
