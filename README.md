@@ -10,7 +10,7 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
 ### 🧰 Languages and Tools
 
 <div>
-  <i class="devicon-html5-plain-wordmark"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
   <img src="https://img.shields.io/endpoint?url=<https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg>&style=for-the-badge&logo=css3&logoColor=white>"/>&nbsp;
   <img src="https://badges.aleen42.com/src/javascript.svg" title="JavaScript" alt="JavaScript"/>&nbsp;
