@@ -31,7 +31,7 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
 
 <div>
 
-  <img src="  https://badges.aleen42.com/src/codepen.svg" title="Codepen" alt="Codepen"/>&nbsp;
+  <img src="https://badges.aleen42.com/src/codepen.svg" title="Codepen" alt="Codepen"/>&nbsp;
   <img src="https://badges.aleen42.com/src/stackoverflow.svg" title="Stack Overflow" alt="Stack Overflow"/>&nbsp;
 
 
