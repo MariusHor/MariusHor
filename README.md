@@ -10,7 +10,7 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
 ### 🧰 Languages and Tools
 
 <div>
-  <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img style="background: lightgrey; height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img style="height: 70px; width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
