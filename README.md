@@ -4,8 +4,8 @@ Welcome to my GitHub! Here you can find all the projects that I've been working 
 
 📫 How to reach me: ...
 
-- Mail: marius.horghidan@yahoo.com
-- LinkedIn: https://www.linkedin.com/in/marius-horghidan
+- [Mail](marius.horghidan@yahoo.com)
+- [LinkedIn](https://www.linkedin.com/in/marius-horghidan)
 
 ### 🧰 Languages and Tools
 
